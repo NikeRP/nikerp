@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>courier52</modelName>
+      <colors>
+        <Item> 							<!-- Sandpiper Beige -->
+          <indices content="char_array">  
+            106
+            106
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Meadowbrook Green -->
+          <indices content="char_array">  
+            170
+            170
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Glen Mist Green -->
+          <indices content="char_array">  
+            186
+            186
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Woodsmoke Gray -->
+          <indices content="char_array">  
+            4
+            4
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Alpine Blue -->
+          <indices content="char_array">  
+            74
+            74
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Hawaiian Bronze Metallic -->
+          <indices content="char_array">  
+            237
+            237
+            93
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Carnival Red Metallic -->
+          <indices content="char_array">  
+            33
+            33
+            3
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>yellow plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+     <Item>
+      <modelName>mainline53</modelName>
+      <colors>
+        <Item> 							<!-- Raven Black -->
+          <indices content="char_array">  
+            0
+            6
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Woodsmoke Gray -->
+          <indices content="char_array">  
+            4
+            6
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Sheridan Blue -->
+          <indices content="char_array">  
+            172
+            6
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Glacier Blue -->
+          <indices content="char_array">  
+            74
+            6
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Timberline Green Metallic -->
+          <indices content="char_array">  
+            204
+            6
+            178
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Fern Mist Green -->
+          <indices content="char_array">  
+            170
+            6
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Seafoam Green -->
+          <indices content="char_array">  
+            200
+            6
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Polynesian Bronze Metallic -->
+          <indices content="char_array">  
+            237
+            6
+            93
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Sandpiper Tan -->
+          <indices content="char_array">  
+            106
+            6
+            0
+            156
+          </indices>
+        </Item>
+        <Item> 							<!-- Carnival Red Metallic -->
+          <indices content="char_array">  
+            33
+            6
+            3
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>yellow plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
